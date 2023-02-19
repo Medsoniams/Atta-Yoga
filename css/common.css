@@ -9,3 +9,15 @@
   padding: 0 24px;
   margin: 0 auto;
 }
+
+@media screen and (max-width: 992px) {
+  .container {
+    padding: 0 32px;
+  }
+}
+
+@media screen and (max-width: 992px) {
+  .container {
+    padding: 0 24px;
+  }
+}
